@@ -5,3 +5,11 @@ informar apenas a seguinte informação (note que não foram exibidas informaç�
 nota(s) de R$ 10. 1 nota(s) de R$ 5. 3 nota(s) de R$ 1.
 */
 
+const notas = [100, 50, 10, 5, 1]
+
+const calculaNotas = function (valor) {
+    let qtdNotas = [0,0,0,0,0];
+
+}
+
+calculaNotas(1030)
