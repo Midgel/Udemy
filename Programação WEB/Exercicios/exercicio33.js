@@ -25,3 +25,5 @@ function concatenar(vetorInt, vetorString, vetorDouble) {
 }
 
 concatenar(array, arrayString, arrayDouble)
+
+module.exports =  { createArrayDouble };
